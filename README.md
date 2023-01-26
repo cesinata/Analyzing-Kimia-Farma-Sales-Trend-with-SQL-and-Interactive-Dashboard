@@ -1,5 +1,5 @@
 # Kimia-Farma-Project-Based-Internship
-Repository for the final task of my Virtual Internship Experience as Big Data Analyst at Kimia Farma
+A repository for the final task of my Virtual Internship Experience as Big Data Analyst at Kimia Farma
 
 ---
 
