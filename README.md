@@ -1,5 +1,4 @@
-# Kimia-Farma-Project-Based-Internship
-A repository for the final task of my Virtual Internship Experience as Big Data Analyst at Kimia Farma
+# Analyzing Kimia Farma Sales Trend with SQL and Interactive Dashboard
 
 ---
 
