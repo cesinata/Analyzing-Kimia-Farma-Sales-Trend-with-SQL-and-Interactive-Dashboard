@@ -23,7 +23,4 @@ Then I visualize the data through the Google Data Studio tool, which can be seen
 ![image](https://user-images.githubusercontent.com/70552539/214751639-9a5ecbd4-0c4c-4b79-943d-dc12a9afc8a4.png)
 
 
-You can access it at: https://datastudio.google.com/reporting/c662ce06-e4cc-4757-8adf-68cdce9b6e08 
-
-
-I would like to thank Rakamin Academy and Kimia Farma for organizing this virtual internship. Hope this repository can also be useful for you, thank you.
+The dashboard is publicy accessed at: https://datastudio.google.com/reporting/c662ce06-e4cc-4757-8adf-68cdce9b6e08 
